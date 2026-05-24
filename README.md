@@ -1,11 +1,11 @@
-# 👩🏻‍💻 David Aurélio Pedrosa
-
-**'Estudante de Engenharia de Software'**
-
-Me chamo David, tenho 18 anos e sou estudante da área de tecnologia.
-Atualmente estou cursando Engenharia de Software e estudando Python e Desenvolvimento Web, com foco em lógica de programação.
-Tenho interesse em aprender cada vez mais e construir uma base sólida na área de programação.
-
+# 👨🏻‍💻 David Aurélio Pedrosa
+ 
+**`Estudante de Engenharia de Software | Desenvolvedor em Formação`**
+ 
+Olá! Me chamo David, tenho 18 anos e sou apaixonado por tecnologia e programação.  
+Atualmente curso **Engenharia de Software** e estou construindo uma base sólida em **Python**, **Desenvolvimento Web** e **lógica de programação**.  
+Acredito que aprendizado constante e projetos práticos são o caminho para evoluir como desenvolvedor. 🚀
+ 
 <p align="left">
     <a href="https://github.com/DavidAurelio07?tab=followers">
         <img 
@@ -18,14 +18,14 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DavidAurelio07?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/DavidAurelio07?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
 </p>
-
 ---
-
-### 💬 Entre em contato comigo através das minhas redes sociais!
+ 
+### 💬 Vamos nos conectar!
+ 
 <p align="left">
     <a href="https://www.linkedin.com/in/david-aurélio-pedrosa-348aa92b5/">
         <img 
@@ -45,70 +45,91 @@ Tenho interesse em aprender cada vez mais e construir uma base sólida na área 
         <img 
             alt="Email"
             title="Email"
-            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
 </p>
-
 ---
-
+ 
 ### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-/>
-
-
-<img 
-    align="left" 
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
-
-<br/>
-<br/>
-
-### 📌 Sobre meus estudos
-
-- Lógica de Programação  
-- Algoritmos  
-- Python  
-- Desenvolvimento de projetos práticos 
-- HTML
-- CSS
-- JavaScript
+ 
+<p align="left">
+    <img 
+        alt="HTML"
+        title="HTML5"
+        width="35px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    />
+    <img 
+        alt="CSS"
+        title="CSS3"
+        width="35px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    />
+    <img 
+        alt="JavaScript"
+        title="JavaScript"
+        width="35px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    />
+    <img 
+        alt="Python"
+        title="Python"
+        width="35px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    />
+    <img 
+        alt="Git"
+        title="Git"
+        width="35px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    />
+    <img 
+        alt="GitHub"
+        title="GitHub"
+        width="35px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    />
+</p>
+---
+ 
+### 📚 O que estou estudando
+ 
+| Área | Tópicos |
+|------|---------|
+| 🧠 **Lógica & Algoritmos** | Lógica de programação, estruturas de dados básicas, algoritmos |
+| 🐍 **Python** | Fundamentos, orientação a objetos, projetos práticos |
+| 🌐 **Desenvolvimento Web** | HTML, CSS, JavaScript |
+| 🔧 **Ferramentas** | Git, GitHub, controle de versão |
+| 📋 **Metodologias** | SCRUM, desenvolvimento ágil |
+ 
+---
+ 
+### 🗂️ Metodologias Ágeis
+ 
+Tenho conhecimento em **SCRUM**, incluindo:
+- Conceitos de **Sprints**, **Backlog** e **Daily Scrum**
+- Papéis: Product Owner, Scrum Master e Time de Desenvolvimento
+- Planejamento e entrega incremental de valor
+---
+ 
+### 📊 Estatísticas do GitHub
+ 
+<p align="left">
+    <img 
+        height="160em"
+        src="https://github-readme-stats.vercel.app/api?username=DavidAurelio07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+        alt="Estatísticas GitHub"
+    />
+    <img 
+        height="160em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAurelio07&layout=compact&langs_count=7&theme=tokyonight"
+        alt="Linguagens mais usadas"
+    />
+</p>
