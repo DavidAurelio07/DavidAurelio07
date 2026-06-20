@@ -34,13 +34,6 @@ Acredito que aprendizado constante e projetos práticos são o caminho para evol
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/david.pdrs/">
-        <img 
-            alt="Instagram"
-            title="Instagram"
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
     <a href="mailto:davidaureliop07@gmail.com">
         <img 
             alt="Email"
