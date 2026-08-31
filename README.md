@@ -84,19 +84,38 @@ Tenho conhecimento em **SCRUM**, incluindo:
 - Conceitos de **Sprints**, **Backlog** e **Daily Scrum**
 - Papéis: Product Owner, Scrum Master e Time de Desenvolvimento
 - Planejamento e entrega incremental de valor
----
- 
-### 📊 Estatísticas do GitHub
- 
-<p align="left">
-    <img 
-        height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=DavidAurelio07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-        alt="Estatísticas GitHub"
-    />
-    <img 
-        height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAurelio07&layout=compact&langs_count=7&theme=tokyonight"
-        alt="Linguagens mais usadas"
-    />
-</p>
+
+----
+
+<table>
+<tr>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@c9204a3e-1f2b-4c8c-9032-0d921b67c216">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=c9204a3e-1f2b-4c8c-9032-0d921b67c216 &custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=c9204a3e-1f2b-4c8c-9032-0d921b67c216&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+</td>
+<td>
+
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
