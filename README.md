@@ -34,6 +34,7 @@ Acredito que aprendizado constante e projetos práticos são o caminho para evol
 
 -----
 
+
 <div align="center">
 <table>
 <tr>
@@ -59,53 +60,11 @@ Acredito que aprendizado constante e projetos práticos são o caminho para evol
 
 -----
  
-### 🤖 Linguagens e Tecnologias
- 
-<p align="left">
-    <img 
-        alt="HTML"
-        title="HTML5"
-        width="35px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    />
-    <img 
-        alt="CSS"
-        title="CSS3"
-        width="35px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    />
-    <img 
-        alt="JavaScript"
-        title="JavaScript"
-        width="35px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    />
-    <img 
-        alt="Python"
-        title="Python"
-        width="35px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    />
-    <img 
-        alt="Git"
-        title="Git"
-        width="35px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    />
-    <img 
-        alt="GitHub"
-        title="GitHub"
-        width="35px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    />
-</p>
----
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/> Linguagens e ferramentas:
+
+<table align="center"> <tr> <td align="center" colspan="8"></td> </tr> <tr> <td align="center"> <a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a><br/> Python </td> <td align="center"> <a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a><br/> Java </td> <td align="center"> <a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a><br/> HTML </td> <td align="center"> <a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a><br/> CSS </td> <td align="center"> <a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a><br/> JavaScript </td> <td align="center"> <a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/git.png?raw=true"/></a><br/> Git </td> <td align="center"> <a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a><br/> VS Code </td> <td align="center"> <a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a><br/> IntelliJ </td> </tr> <tr> <td align="center" colspan="8"></td> </tr> </table>
+
+-----
  
 ### 📚 O que estou estudando
  
