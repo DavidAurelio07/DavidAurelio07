@@ -119,3 +119,26 @@ Tenho conhecimento em **SCRUM**, incluindo:
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+
+-----
+
+<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=DavidAurelio07&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
+
+<img alt="Status do GitHub Actions" src="https://img.shields.io/github/actions/workflow/status/DavidAurelio07/DavidAurelio07/main.yml?style=for-the-badge&color=007ec6&logo=githubactions"/> 
+
+<img alt="GitHub license" src="https://img.shields.io/github/license/DavidAurelio07/DavidAurelio07?style=for-the-badge&color=007ec6&logo=opensourceinitiative"/> <br/>
+
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/DavidAurelio07/DavidAurelio07?style=for-the-badge&color=007ec6&logo=gitkraken"/>
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DavidAurelio07/DavidAurelio07?style=for-the-badge&logo=clockify"/> 
+
+<img alt="Metrics" src="https://img.shields.io/github/actions/workflow/status/DavidAurelio07/DavidAurelio07/main.yml?style=for-the-badge&logo=githubactions&label=Metrics"/>
+
+<img alt="Pacman" src="https://img.shields.io/github/actions/workflow/status/DavidAurelio07/DavidAurelio07/pacman.yml?style=for-the-badge&logo=githubactions&label=Pacman"/> <br /> 
+
+<img alt="Followers" src="https://img.shields.io/github/followers/DavidAurelio07?style=social"/> <img alt="Stars" src="https://img.shields.io/github/stars/DavidAurelio07?style=social"/>
+
+<img alt="Forks" src="https://img.shields.io/github/forks/DavidAurelio07/DavidAurelio07?logo=git"/> <a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+</div> 
+
+-----
