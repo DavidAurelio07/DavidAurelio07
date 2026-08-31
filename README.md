@@ -1,3 +1,12 @@
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/DavidAurelio07/DavidAurelio07/blob/main/img/banner01.gif"/>
+</div>
+
+-----
+
+
 # 👨🏻‍💻 David Aurélio Pedrosa
  
 **`Estudante de Engenharia de Software | Desenvolvedor em Formação`**
@@ -22,27 +31,33 @@ Acredito que aprendizado constante e projetos práticos são o caminho para evol
         />
     </a>
 </p>
----
- 
-### 💬 Vamos nos conectar!
- 
-<p align="left">
-    <a href="https://www.linkedin.com/in/david-aurélio-pedrosa-348aa92b5/">
-        <img 
-            alt="LinkedIn"
-            title="LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:davidaureliop07@gmail.com">
-        <img 
-            alt="Email"
-            title="Email"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
----
+
+-----
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:davidaureliop07@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5531983273314" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/david-aurélio-pedrosa-348aa92b5/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+</div>
+
+-----
  
 ### 🤖 Linguagens e Tecnologias
  
