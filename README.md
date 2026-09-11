@@ -11,9 +11,7 @@
  
 **`Estudante de Engenharia de Software | Desenvolvedor em Formação`**
  
-Olá! Me chamo David, tenho 18 anos e sou apaixonado por tecnologia e programação.  
-Atualmente curso **Engenharia de Software** e estou construindo uma base sólida em **Python**, **Desenvolvimento Web** e **lógica de programação**.  
-Acredito que aprendizado constante e projetos práticos são o caminho para evoluir como desenvolvedor. 🚀
+Estudante de Engenharia de Software na PUC Minas desde fevereiro de 2026, com previsão de conclusão em dezembro de 2029. Tenho 18 anos e venho construindo minha base em lógica de programação, Python e Java, além de Desenvolvimento Web com HTML, CSS, JavaScript e Git. Apliquei essas habilidades no EcoFlux, uma plataforma web de coleta de recicláveis construída com HTML5, CSS3, JavaScript, Node.js, JSON Server e Bootstrap e implantada no Render, onde atuei na depuração e melhoria de funcionalidades de JavaScript, correção de bugs de renderização e implementação de um modal de detalhes de registro. Também tenho conhecimento em metodologias ágeis (Scrum), incluindo conceitos de Sprints, Backlog e Daily Scrum. Atualmente estou em processo seletivo para vagas de estágio, buscando aplicar na prática o que venho aprendendo em sala de aula e em projetos pessoais.
  
 <p align="left">
     <a href="https://github.com/DavidAurelio07?tab=followers">
@@ -47,8 +45,8 @@ Acredito que aprendizado constante e projetos práticos são o caminho para evol
 </td>
 <td><a href="https://wa.me/5531983273314" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/wpp2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/insta2.png" width="50px" height="50px"/></a>
-</td>
+<!-- <td><a href="https://www.instagram.com/david.aurelio7/" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/insta2.png" width="50px" height="50px"/></a>
+</td> -->
 <td><a href="https://www.linkedin.com/in/david-aurélio-pedrosa-348aa92b5/" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/linkedin2.png" width="50px" height="50px"/></a>
 </td>
 </tr>
@@ -146,7 +144,7 @@ Tenho conhecimento em **SCRUM**, incluindo:
 
 <img alt="Followers" src="https://img.shields.io/github/followers/DavidAurelio07?style=social"/> <img alt="Stars" src="https://img.shields.io/github/stars/DavidAurelio07?style=social"/>
 
-<img alt="Forks" src="https://img.shields.io/github/forks/DavidAurelio07/DavidAurelio07?logo=git"/> <a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+<img alt="Forks" src="https://img.shields.io/github/forks/DavidAurelio07/DavidAurelio07?logo=git"/>
 </div> 
 
 -----
