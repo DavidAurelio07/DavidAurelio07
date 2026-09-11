@@ -11,7 +11,7 @@
  
 **`Estudante de Engenharia de Software | Desenvolvedor em Formação`**
  
-Estudante de Engenharia de Software na PUC Minas desde fevereiro de 2026, com previsão de conclusão em dezembro de 2029. Tenho 18 anos e venho construindo minha base em lógica de programação, Python e Java, além de Desenvolvimento Web com HTML, CSS, JavaScript e Git. Apliquei essas habilidades no EcoFlux, uma plataforma web de coleta de recicláveis construída com HTML5, CSS3, JavaScript, Node.js, JSON Server e Bootstrap e implantada no Render, onde atuei na depuração e melhoria de funcionalidades de JavaScript, correção de bugs de renderização e implementação de um modal de detalhes de registro. Também tenho conhecimento em metodologias ágeis (Scrum), incluindo conceitos de Sprints, Backlog e Daily Scrum. Atualmente estou em processo seletivo para vagas de estágio, buscando aplicar na prática o que venho aprendendo em sala de aula e em projetos pessoais.
+Estudante de **Engenharia de Software** na **PUC Minas** desde fevereiro de 2026, com previsão de conclusão em dezembro de 2029. Tenho 18 anos e venho construindo minha base em **lógica de programação**, **Python** e **Java**, além de **Desenvolvimento Web** com **HTML**, **CSS**, **JavaScript** e **Git**. Apliquei essas habilidades no **EcoFlux**, uma plataforma web de coleta de recicláveis construída com HTML5, CSS3, JavaScript, Node.js, JSON Server e Bootstrap e implantada no Render, onde atuei na depuração e melhoria de funcionalidades de JavaScript, correção de bugs de renderização e implementação de um modal de detalhes de registro; e no site de uma **pizzaria**, onde desenvolvi uma paleta de cores coesa e refinei o CSS de cards, badges, rodapé e ícones. Também tenho conhecimento em **metodologias ágeis (Scrum)**, incluindo conceitos de Sprints, Backlog e Daily Scrum. Atualmente estou em processo seletivo para vagas de estágio, buscando aplicar na prática o que venho aprendendo em sala de aula e em projetos pessoais. Acredito que aprendizado constante e projetos práticos são o caminho para evoluir como desenvolvedor. 🚀
  
 <p align="left">
     <a href="https://github.com/DavidAurelio07?tab=followers">
@@ -45,8 +45,8 @@ Estudante de Engenharia de Software na PUC Minas desde fevereiro de 2026, com pr
 </td>
 <td><a href="https://wa.me/5531983273314" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/wpp2.png" width="50px" height="50px"/></a>
 </td>
-<!-- <td><a href="https://www.instagram.com/david.aurelio7/" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/insta2.png" width="50px" height="50px"/></a>
-</td> -->
+<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/insta2.png" width="50px" height="50px"/></a>
+</td>
 <td><a href="https://www.linkedin.com/in/david-aurélio-pedrosa-348aa92b5/" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/linkedin2.png" width="50px" height="50px"/></a>
 </td>
 </tr>
@@ -60,15 +60,16 @@ Estudante de Engenharia de Software na PUC Minas desde fevereiro de 2026, com pr
  
 <img height="20" alt="SVG" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/skills.svg"/> Linguagens e ferramentas:
 
-<table align="center"> <tr> <td align="center" colspan="8"></td> </tr> <tr> <td align="center"> <a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/python.png"/></a><br/> Python </td> 
+<table align="center"> <tr> <td align="center" colspan="8"></td> </tr> <tr> <td align="center"> <a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/python.png"/></a><br/> Python </td>
 
-<td align="center"> <a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/java.png"/></a><br/> Java </td> <td align="center"> <a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/html.svg"/></a><br/> HTML </td>
-
-<td align="center"> <a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/css.svg"/></a><br/> CSS </td> <td align="center"> <a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/js.png"/></a><br/> JavaScript </td>
-
-<td align="center"> <a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/git.png"/></a><br/> Git </td> <td align="center"> <a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/vs.png"/></a><br/> VS Code </td>
-
-<td align="center"> <a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/intellij.png"/></a><br/> IntelliJ </td> </tr> <tr> <td align="center" colspan="8"></td> </tr> </table>
+<td align="center"> <a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/java.png"/></a><br/> Java </td>
+ 
+ <td align="center"> <a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/html.svg"/></a><br/> HTML </td> <td align="center"> <a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/css.svg"/></a><br/> CSS </td>
+ 
+ <td align="center"> <a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/js.png"/></a><br/> JavaScript </td> <td align="center"> <a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/git.png"/></a><br/> Git </td>
+ 
+ <td align="center"> <a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/vs.png"/></a><br/> VS Code </td> <td align="center"> <a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/intellij.png"/></a><br/> IntelliJ </td> </tr>
+  <tr> <td align="center" colspan="8"></td> </tr> </table>
 
 -----
  
@@ -111,14 +112,14 @@ Tenho conhecimento em **SCRUM**, incluindo:
 <tr>
 <td>
 
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=@c9204a3e-1f2b-4c8c-9032-0d921b67c216i&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=DavidAurelio07&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
 </td>
 <td>
 
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=@c9204a3e-1f2b-4c8c-9032-0d921b67c216&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=DavidAurelio07&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=@c9204a3e-1f2b-4c8c-9032-0d921b67c216&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=DavidAurelio07&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 </tr>
 <tr>
@@ -144,7 +145,7 @@ Tenho conhecimento em **SCRUM**, incluindo:
 
 <img alt="Followers" src="https://img.shields.io/github/followers/DavidAurelio07?style=social"/> <img alt="Stars" src="https://img.shields.io/github/stars/DavidAurelio07?style=social"/>
 
-<img alt="Forks" src="https://img.shields.io/github/forks/DavidAurelio07/DavidAurelio07?logo=git"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/DavidAurelio07/DavidAurelio07?logo=git"/> <a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div> 
 
 -----
