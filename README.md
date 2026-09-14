@@ -45,8 +45,8 @@ Estudante de **Engenharia de Software** na **PUC Minas** desde fevereiro de 2026
 </td>
 <td><a href="https://wa.me/5531983273314" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/wpp2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/insta2.png" width="50px" height="50px"/></a>
-</td>
+<!-- <td><a href="https://www.instagram.com/joaopauloaramuni/" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/insta2.png" width="50px" height="50px"/></a> 
+</td> -->
 <td><a href="https://www.linkedin.com/in/david-aurélio-pedrosa-348aa92b5/" target="_blank"><img src="https://raw.githubusercontent.com/DavidAurelio07/DavidAurelio07/main/img/linkedin2.png" width="50px" height="50px"/></a>
 </td>
 </tr>
