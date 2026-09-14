@@ -141,11 +141,8 @@ Tenho conhecimento em **SCRUM**, incluindo:
 
 <img alt="Metrics" src="https://img.shields.io/github/actions/workflow/status/DavidAurelio07/DavidAurelio07/main.yml?style=for-the-badge&logo=githubactions&label=Metrics"/>
 
-<img alt="Pacman" src="https://img.shields.io/github/actions/workflow/status/DavidAurelio07/DavidAurelio07/pacman.yml?style=for-the-badge&logo=githubactions&label=Pacman"/> <br /> 
-
 <img alt="Followers" src="https://img.shields.io/github/followers/DavidAurelio07?style=social"/> <img alt="Stars" src="https://img.shields.io/github/stars/DavidAurelio07?style=social"/>
 
-<img alt="Forks" src="https://img.shields.io/github/forks/DavidAurelio07/DavidAurelio07?logo=git"/> <a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
-</div> 
+
 
 -----
