@@ -11,7 +11,16 @@
  
 **`Estudante de Engenharia de Software | Desenvolvedor em Formação`**
  
-Estudante de **Engenharia de Software** na **PUC Minas** desde fevereiro de 2026, com previsão de conclusão em dezembro de 2029. Tenho 18 anos e venho construindo minha base em **lógica de programação**, **Python** e **Java**, além de **Desenvolvimento Web** com **HTML**, **CSS**, **JavaScript** e **Git**. Apliquei essas habilidades no **EcoFlux**, uma plataforma web de coleta de recicláveis construída com HTML5, CSS3, JavaScript, Node.js, JSON Server e Bootstrap e implantada no Render, onde atuei na depuração e melhoria de funcionalidades de JavaScript, correção de bugs de renderização e implementação de um modal de detalhes de registro; e no site de uma **pizzaria**, onde desenvolvi uma paleta de cores coesa e refinei o CSS de cards, badges, rodapé e ícones. Também tenho conhecimento em **metodologias ágeis (Scrum)**, incluindo conceitos de Sprints, Backlog e Daily Scrum. Atualmente estou em processo seletivo para vagas de estágio, buscando aplicar na prática o que venho aprendendo em sala de aula e em projetos pessoais. Acredito que aprendizado constante e projetos práticos são o caminho para evoluir como desenvolvedor. 🚀
+Desde pequeno, comecei a utilizar o computador do meu pai e, por conta disso, desenvolvi um grande interesse pela área de tecnologia. Em 2016, comecei a conhecer um pouco mais sobre desenvolvimento de jogos, tendo também meu primeiro contato com programação.
+
+Em 2020, surgiu em mim a vontade de ingressar na área de programação. Por isso, iniciei o curso de Programação 1 na Escola CNI (Prime System), onde aprendi sobre Lógica de Programação, Java e um pouco de PHP. Gostei muito da experiência e, posteriormente, realizei o curso de Programação 2, com foco em HTML, CSS e WordPress.
+
+Após esses cursos, surgiu o interesse em cursar uma faculdade na área de Tecnologia da Informação. Foi então que conheci o curso de Engenharia de Software da PUC Minas e iniciei minha graduação no primeiro semestre de 2026.
+
+Durante a graduação, venho adquirindo conhecimentos em Python, desenvolvimento web com HTML, CSS e JavaScript, Java, Spring Boot e metodologias ágeis, como Scrum.
+
+Atualmente, estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento, onde espero aplicar meus conhecimentos em projetos reais, contribuir para os resultados da empresa e, ao mesmo tempo, continuar aprendendo e evoluindo profissionalmente.
+
  
 <p align="left">
     <a href="https://github.com/DavidAurelio07?tab=followers">
