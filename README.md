@@ -9,17 +9,9 @@
 
 # 👨🏻‍💻 David Aurélio Pedrosa
  
-**`Estudante de Engenharia de Software | Desenvolvedor em Formação`**
+**`Estudante de Engenharia de Software`**
  
-Desde pequeno, comecei a utilizar o computador do meu pai e, por conta disso, desenvolvi um grande interesse pela área de tecnologia. Em 2016, comecei a conhecer um pouco mais sobre desenvolvimento de jogos, tendo também meu primeiro contato com programação.
-
-Em 2020, surgiu em mim a vontade de ingressar na área de programação. Por isso, iniciei o curso de Programação 1 na Escola CNI (Prime System), onde aprendi sobre Lógica de Programação, Java e um pouco de PHP. Gostei muito da experiência e, posteriormente, realizei o curso de Programação 2, com foco em HTML, CSS e WordPress.
-
-Após esses cursos, surgiu o interesse em cursar uma faculdade na área de Tecnologia da Informação. Foi então que conheci o curso de Engenharia de Software da PUC Minas e iniciei minha graduação no primeiro semestre de 2026.
-
-Durante a graduação, venho adquirindo conhecimentos em Python, desenvolvimento web com HTML, CSS e JavaScript, Java, Spring Boot e metodologias ágeis, como Scrum.
-
-Atualmente, estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento, onde espero aplicar meus conhecimentos em projetos reais, contribuir para os resultados da empresa e, ao mesmo tempo, continuar aprendendo e evoluindo profissionalmente.
+Seja Bem Vindo ao meu  perfil do GitHub!!
 
  
 <p align="left">
@@ -86,20 +78,13 @@ Atualmente, estou em busca da minha primeira oportunidade de estágio na área d
  
 | Área | Tópicos |
 |------|---------|
-| 🧠 **Lógica & Algoritmos** | Lógica de programação, estruturas de dados básicas, algoritmos |
-| 🐍 **Python** | Fundamentos, orientação a objetos, projetos práticos |
-| 🌐 **Desenvolvimento Web** | HTML, CSS, JavaScript |
-| 🔧 **Ferramentas** | Git, GitHub, controle de versão |
-| 📋 **Metodologias** | SCRUM, desenvolvimento ágil |
+|**Lógica & Algoritmos** | Lógica de programação, estruturas de dados básicas, algoritmos |
+|**Python** | Fundamentos, orientação a objetos|
+|**Java** | Programação Orientada a Objeto |
+|**Desenvolvimento Web** | HTML, CSS, JavaScript |
+|**Metodologias** | SCRUM, desenvolvimento ágil |
  
----
- 
-### 🗂️ Metodologias Ágeis
- 
-Tenho conhecimento em **SCRUM**, incluindo:
-- Conceitos de **Sprints**, **Backlog** e **Daily Scrum**
-- Papéis: Product Owner, Scrum Master e Time de Desenvolvimento
-- Planejamento e entrega incremental de valor
+
 
 ----
 
